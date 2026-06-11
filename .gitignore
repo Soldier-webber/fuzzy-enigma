@@ -1,0 +1,20 @@
+# Rust build artifacts
+target/
+Cargo.lock
+**/*.rs.bk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Generated maze output
+maze.svg
+*.svg
+
+# Temporary files
+*.tmp
+*.temp
